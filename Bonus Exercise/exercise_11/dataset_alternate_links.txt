@@ -1,0 +1,2 @@
+If the download_dataset scripts don't work (in case fileserver is down) you can download datasets manually from this link
+https://drive.google.com/drive/u/0/folders/1arAplgLvmK5mtEYm_xR4gH3fg-IwAogH
